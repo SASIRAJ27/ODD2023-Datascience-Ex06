@@ -15,8 +15,8 @@ Apply Feature Transformation techniques to all the features of the data set.
 ### Step4:
 Print the transformed features.
 ### Program:
-Developed By: Yogeshvar M              
-Register No: 212222230180
+Developed By: SASIRAJKUMAR T J              
+Register No: 212222230137
 
 ### Importing libraries and reading csv file:
 ```
